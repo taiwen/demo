@@ -9,5 +9,6 @@
     "license": "New BSD",
     "require": {
         "pi/pi": "*"
-    }
+    },
+    "minimum-stability": "dev"
 }
