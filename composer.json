@@ -8,7 +8,6 @@
     "homepage": "http://pialog.org/",
     "license": "New BSD",
     "require": {
-        "php": ">=5.3.23",
         "pi/pi": "2.*"
     }
 }
