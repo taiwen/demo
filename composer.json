@@ -10,5 +10,5 @@
     "require": {
         "pi/pi": "*"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "beta"
 }
