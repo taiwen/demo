@@ -1,0 +1,14 @@
+{
+    "name": "taiwen/demo",
+    "description": "Demo for composer building.",
+    "keywords": [
+        "Pi",
+        "Composer"
+    ],
+    "homepage": "http://pialog.org/",
+    "license": "New BSD",
+    "require": {
+        "php": ">=5.3.23",
+        "pi/pi": "2.*"
+    }
+}
