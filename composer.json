@@ -6,8 +6,19 @@
         "Composer"
     ],
     "homepage": "http://pialog.org/",
-    "license": "New BSD",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Taiwen Jiang",
+            "email": "taiwen@me.com"
+        },
+        {
+            "name": "Pi Team",
+            "homepage": "https://github.com/pi-engine/pi/graphs/contributors"
+        }
+    ],
     "require": {
-        "pi/pi": "@dev"
-    }
+        "pi/pi": "2.*@dev"
+    },
+    "minimum-stability": "dev"
 }
