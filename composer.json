@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "pi/pi": "2.*@dev"
+        "pi/pi": "dev-develop"
     },
     "minimum-stability": "dev"
 }
