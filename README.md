@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Platform-Service
-================
-
-For SCRM service platform.
-=======
 Pi Engine
 =================
 
@@ -61,4 +55,3 @@ Demo
 Demo sites with shared deployment: 
 * Pi Dialogue ([pialog.org](http://pialog.org) | [pialogue.org](http://pialogue.org))
 * Pi Demo ([pi-demo.org](http://pi-demo.org))
->>>>>>> upstream/develop
