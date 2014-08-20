@@ -16,7 +16,7 @@ class IndexFilter extends InputFilter
         $this->add(array(
             'name'          => 'username',
             'options'       => array(
-                'label'     => __('姓名*'),
+                'label'     => __('name*'),
             ),
             'attributes'    => array(
 
@@ -27,7 +27,7 @@ class IndexFilter extends InputFilter
         $this->add(array(
             'name'          => 'work',
             'options'       => array(
-                'label'     => __('职务*'),
+                'label'     => __('title*'),
             ),
             'attributes'    => array(
 
@@ -37,7 +37,7 @@ class IndexFilter extends InputFilter
         $this->add(array(
             'name'          => 'company',
             'options'       => array(
-                'label'     => __('公司*'),
+                'label'     => __('company*'),
             ),
             'attributes'    => array(
 
@@ -47,7 +47,7 @@ class IndexFilter extends InputFilter
         $this->add(array(
             'name'          => 'comp_mail',
             'options'       => array(
-                'label'     => __('企业邮箱*'),
+                'label'     => __('email*'),
             ),
             'attributes'    => array(
 
@@ -57,7 +57,7 @@ class IndexFilter extends InputFilter
         $this->add(array(
             'name'          => 'phonenum',
             'options'       => array(
-                'label'     => __('电话*'),
+                'label'     => __('phone*'),
             ),
             'attributes'    => array(
 
@@ -67,7 +67,7 @@ class IndexFilter extends InputFilter
         $this->add(array(
             'name'          => 'submit',
             'attributes'    => array(
-                'value'     => __('免费试用'),
+                'value'     => __('freetrial'),
                 'type'          => 'submit',
             ),
 
