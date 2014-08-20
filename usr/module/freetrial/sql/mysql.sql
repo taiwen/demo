@@ -6,5 +6,5 @@ CREATE TABLE `{freetrial}` (
   `comp_mail`      VARCHAR(64)             NOT NULL DEFAULT '',
   `phonenum`        INT(11) UNSIGNED         NOT NULL ,
   
-  PRIMARY KEY     (`id`)
+   PRIMARY KEY        (`id`)
 );
