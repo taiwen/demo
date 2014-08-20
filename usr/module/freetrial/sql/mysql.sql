@@ -5,4 +5,6 @@ CREATE TABLE `{freetrial}` (
   `company`      VARCHAR(64)             NOT NULL DEFAULT '',
   `comp_mail`      VARCHAR(64)             NOT NULL DEFAULT '',
   `phonenum`        INT(11) UNSIGNED         NOT NULL ,
+  
+  PRIMARY KEY     (`id`)
 );
