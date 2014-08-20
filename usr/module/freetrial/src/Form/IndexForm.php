@@ -1,11 +1,12 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: admin
- * Date: 14-8-19
- * Time: 下午5:25
+ * Pi Engine (http://pialog.org/)
+ *
+ * @link      http://code.pialog.org for the Pi Engine source repository
+ * @copyright Copyright (c) Pi Engine (http://pialog.org/)
  */
 namespace Module\Freetrial\Form;
+
 use Pi\Form\Form as BaseForm;
 
 class IndexForm extends BaseForm
