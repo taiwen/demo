@@ -1,0 +1,1 @@
+See /usr/locale/README.md
